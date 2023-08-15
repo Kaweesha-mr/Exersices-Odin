@@ -10,8 +10,8 @@ html {
   padding: 16px;
   box-sizing: border-box;
   display: grid;
-  grid-template-rows:60px 60px 450px 60px;
-  grid-template-columns: 60px 180px;
+  grid-template-rows:1fr 1fr 5fr 1fr;
+  grid-template-columns: 1fr 2fr ;
   gap: 15px;
 }
 
